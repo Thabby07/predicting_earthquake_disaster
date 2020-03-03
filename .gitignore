@@ -75,8 +75,8 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+# exclude data from source control by default - in this case, we upload the entire dataset
+#/data/
 
 # Mac OS-specific storage files
 .DS_Store
